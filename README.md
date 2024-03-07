@@ -9,9 +9,9 @@ Welcome to our GitHub repository! This project focuses on leveraging artificial 
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Hardware Components](#hardware-components)
-3. ![Methodology Overview](#Methodology-Overview)
-4. ![Prototype Focus](#Prototype-Focus)
-5. ![Conversation Modules](#Conversation-Modules)
+3. [Methodology Overview](#Methodology-Overview)
+4. [Prototype Focus](#Prototype-Focus)
+5. [Conversation Modules](#Conversation-Modules)
 6. [Installation](#installation)
 7. [Usage](#usage)
 8. [License](#license)

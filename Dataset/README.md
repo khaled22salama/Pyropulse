@@ -1,5 +1,5 @@
 
-# Fire Detection Model [Machine Learning code](Dataset/forestModel.py)
+# Fire Detection Model [Machine Learning code](forestModel.py)
 
 ## Overview
 

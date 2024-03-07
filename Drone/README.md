@@ -1,6 +1,3 @@
-Certainly! Creating a GitHub README is a great way to document your code for others to understand and use. Below is a template for your README file. You can copy and paste it into a new file named `README.md` in your GitHub repository.
-
-```markdown
 # Raspberry Pi OSD Video Recorder
 
 ## Overview
@@ -62,7 +59,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Thanks to the [picamera library](https://picamera.readthedocs.io/) for Raspberry Pi camera access.
 - GPS data is obtained using the [gps library](https://pypi.org/project/gps/).
-- Crosshair image source: [Your Attribution Here (if required)](https://example.com)
+
 
 ## Contributing
 
@@ -70,8 +67,6 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## Author
 
-- [Your Name](https://github.com/yourusername)
+- [Khaled Salama]((https://github.com/khaled22salama))
 
-```
 
-Make sure to replace placeholders like `yourusername`, `your-repository`, `your_script_name.py`, and add appropriate attributions for crosshair image source if required. Also, include any additional information specific to your project.

@@ -9,10 +9,12 @@ Welcome to our GitHub repository! This project focuses on leveraging artificial 
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Hardware Components](#hardware-components)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
+3. ![Methodology Overview](#Methodology-Overview)
+4. ![Prototype Focus](#Prototype-Focus)
+5. ![Conversation Modules](#Conversation-Modules)
+6. [Installation](#installation)
+7. [Usage](#usage)
+8. [License](#license)
 
 ## Introduction
 
@@ -38,11 +40,11 @@ To build the autonomous drone system, you will need the following hardware compo
 
   
 
-```markdown
-# Methodology Overview
+
+## Methodology Overview
 
 Our methodology involves the integration of an LLM agent with Retrieval-Augmented Generation (RAG), illustrated in Figure 1. The agent initiates the interaction by working with the user to create a profile and formulate an action plan. Subsequently, the RAG enhances the LLM's responses, incorporating additional information such as climate projections and scientific literature in alignment with the agent-generated context.
-
+![Methodology](Dataset/image.png)
 ## Prototype Focus
 
 The primary focus of our prototype revolves around capturing three critical elements in a consulting scenario:
@@ -64,8 +66,8 @@ Our LLM agent seamlessly transitions through these three stages in a conversatio
 2. **Planning Module**
 3. **Memory Module**
 4. **Toolbox Module**
-```
-  ![Methodology](Dataset/image.png)
+
+  
 
 
 ## Installation
@@ -88,7 +90,7 @@ Follow these steps to set up the AI-driven wildfire detection system:
 3. Deploy the machine learning code for wildfire detection on the Raspberry Pi Zero 2 W.
 4. Power up the drone, ensuring all components are functioning correctly.
 
-Check the code for [Drone](Drone)
+Check the code for [Drone](Drone).
 check the code for [machine learning model & dataset](Dataset)
 
 

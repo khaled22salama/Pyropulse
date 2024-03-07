@@ -34,7 +34,7 @@ This Python script utilizes a Raspberry Pi camera to record video while displayi
    touch /home/pi/OSD/crosshair.png
    ```
 
-   Make sure to add your crosshair image to `crosshair.png`.
+  
 
 ## Usage
 

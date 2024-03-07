@@ -36,6 +36,38 @@ To build the autonomous drone system, you will need the following hardware compo
 - VR02 FPV Goggles
 - DarwinFPV 5.8Ghz 25-200mW VTX for Baby Ape
 
+  
+
+```markdown
+# Methodology Overview
+
+Our methodology involves the integration of an LLM agent with Retrieval-Augmented Generation (RAG), illustrated in Figure 1. The agent initiates the interaction by working with the user to create a profile and formulate an action plan. Subsequently, the RAG enhances the LLM's responses, incorporating additional information such as climate projections and scientific literature in alignment with the agent-generated context.
+
+## Prototype Focus
+
+The primary focus of our prototype revolves around capturing three critical elements in a consulting scenario:
+
+1. **Inquiring for Clarification:**
+   The agent asks clarifying questions to gain a comprehensive understanding of the user's concerns.
+
+2. **Strategic Planning and Communication:**
+   Planning and communicating a strategy to effectively address the user's concerns.
+
+3. **Providing Information:**
+   Offering and explaining pertinent quantitative and qualitative information to the user.
+
+## Conversation Modules
+
+Our LLM agent seamlessly transitions through these three stages in a conversation with the user, facilitated by the following modules:
+
+1. **User Profile Module**
+2. **Planning Module**
+3. **Memory Module**
+4. **Toolbox Module**
+```
+  ![Methodology](Dataset/image.png)
+
+
 ## Installation
 
 Follow these steps to set up the AI-driven wildfire detection system:
